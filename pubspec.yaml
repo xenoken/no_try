@@ -1,8 +1,8 @@
 name: no_try
 description: Foundation for a exception-free approach to programing in Dart.
 version: 1.0.0
-homepage: https://www.example.com/xenoken/no_try
-repository: https://www.example.com/xenoken/no_try
+homepage: https://www.github.com/xenoken/no_try
+repository: https://www.github.com/xenoken/no_try
 author: Ken Ekeoha <ekeohak@gmail.com>
 
 environment:
