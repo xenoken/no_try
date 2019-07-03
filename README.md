@@ -11,7 +11,7 @@ import 'package:no_try/no_try.dart';
 
 Result<bool, String> execComputation(String arg) => arg.isNotEmpty
     ? Result.success(true)
-    : Result.failed('Null argument was give.');
+    : Result.failed('Null argument was given.');
 
 
 void main() {
